@@ -24,4 +24,4 @@
 
 
 ## *EM CONSTRUÇÃO*
-[![Mariah's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariahBork)](https://github.com/MariahBork/github-readme-stats)
+[![Mariah's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariahBork&show )](https://github.com/MariahBork/github-readme-stats)
