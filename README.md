@@ -6,7 +6,6 @@
 ![Instagram](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
 ![Mariah GitHub stats](https://github-readme-stats.vercel.app/api?username=MariahBork&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork )](https://github.com/MariahBork/github-readme-stats)
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MariahBork&theme=dark" alt="MariahBork" />
