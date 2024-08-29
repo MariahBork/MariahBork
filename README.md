@@ -24,4 +24,4 @@
 
 
 ## *EM CONSTRUÇÃO*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariahBork&show=github-readme-stats)](https://github.com/MariahBork/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/MariahBork/github-readme-stats)
