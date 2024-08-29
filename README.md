@@ -24,4 +24,4 @@
 
 
 ## *EM CONSTRUÇÃO*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariahBork&repo=github-readme-stats)](https://github.com/MariahBork/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MariahBork&show=github-readme-stats)](https://github.com/MariahBork/github-readme-stats)
