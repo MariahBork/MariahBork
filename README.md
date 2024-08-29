@@ -1,4 +1,4 @@
-## Olá! Sou a Mariah Bork!
+## Hi! I'm Mariah Bork!
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
@@ -11,7 +11,7 @@
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MariahBork&theme=dark" alt="MariahBork" />
 
-## Tecnologias que uso nos meus projetos
+## Tech Preferences
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
