@@ -9,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork )](https://github.com/MariahBork/github-readme-stats)
 
-[![Git Streak](https://github-readme-streak-stats.herokuapp.com/?username=MariahBork&theme=dark)]
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MariahBork&theme=dark" alt="MariahBork" />
 
 ## Tecnologias que uso nos meus projetos
 
