@@ -7,7 +7,6 @@
 
 
 ![Mariah GitHub stats](https://github-readme-stats.vercel.app/api?username=MariahBork&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork )](https://github.com/MariahBork/github-readme-stats)
 
 
@@ -25,4 +24,3 @@
 
 ## *EM CONSTRUÇÃO*
 [![Mariah's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MariahBork&show )](https://github.com/MariahBork/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MariahBork&hide=contribs,prs)
