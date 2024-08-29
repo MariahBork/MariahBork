@@ -9,6 +9,8 @@
 ![Mariah GitHub stats](https://github-readme-stats.vercel.app/api?username=MariahBork&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork )](https://github.com/MariahBork/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork )](https://github.com/MariahBork/github-readme-stats)
+
 
 ## Tecnologias que uso nos meus projetos
 
