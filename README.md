@@ -9,15 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork )](https://github.com/MariahBork/github-readme-stats)
 
-
-<a href="https://github.com/MariahBork/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MariahBork&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/MariahBork/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MariahBork&repo=convoychat" />
-</a>
-
-
 ## Tecnologias que uso nos meus projetos
 
 <div style="display: inline_block"><br/>
