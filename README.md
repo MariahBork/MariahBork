@@ -1,4 +1,4 @@
-## Hi! I'm Mariah Bork!
+## Hi! I'm Mariah Bork! ![hippo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcute-red-panda&psig=AOvVaw3s6MRR1E8a-SVc0cxXVtdr&ust=1725496640215000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDezoWGqIgDFQAAAAAdAAAAABAE))
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
