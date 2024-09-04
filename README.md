@@ -1,4 +1,4 @@
-## Hi! I'm Mariah Bork!  
+## Hi! I'm Mariah Bork! 😜😄
 ![til](https://i.pinimg.com/originals/fe/b6/b6/feb6b68d5ffc34b5f5f03f72b035f04e.gif)
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -12,7 +12,7 @@
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MariahBork&theme=dark" alt="MariahBork" />
 
-## Tech Preferences
+## Tech Preferences ✨
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
