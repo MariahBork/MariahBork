@@ -1,4 +1,4 @@
-## Hi! I'm Mariah Bork! !(https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dhYmpzaTBuYnJ6Ymppc3dlb2s3anAwM2oxdXVpb3kzanFsbmpydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QDVRtezEHN3PgiI/giphy.gif)
+## Hi! I'm Mariah Bork! https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dhYmpzaTBuYnJ6Ymppc3dlb2s3anAwM2oxdXVpb3kzanFsbmpydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2QDVRtezEHN3PgiI/giphy.gif
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
