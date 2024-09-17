@@ -10,8 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork&show )](https://github.com/MariahBork/github-readme-stats)
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=MariahBork&theme=dark" alt="MariahBork" />
-
 ## Tech Preferences ✨
 
 <div style="display: inline_block"><br/>
