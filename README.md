@@ -85,7 +85,7 @@
 
 ## 🎶 Spotify Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=https://open.spotify.com/user/dwnc3op1rhww5kbo2usemtvia?si=450823447bdd4c94&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
 </p>
 
 ---
@@ -119,7 +119,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/MariahBork/MariahBork/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/MariahBork/MariahBork/blob/output/snake.svg" />
 </p>
 
 ---
