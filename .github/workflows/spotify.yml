@@ -1,0 +1,19 @@
+name: Spotify Now Playing
+
+on:
+  schedule:
+    - cron: "*/30 * * * *" # runs every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update Spotify Widget
+        uses: kittinan/spotify-github-profile@v4
+        with:
+          client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          username: MariahBork
