@@ -124,6 +124,31 @@
 
 ---
 
+## 🏆 GitHub Achievements & Visuals
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariahBork&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariahBork&theme=radical" height="300"/>
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MariahBork&theme=radical&column=7" />
+</p>
+
+---
+
+## 📈 Metrics
+<p align="center">
+  <img src="https://github.com/MariahBork/MariahBork/blob/main/github-metrics.svg" />
+</p>
+
+---
+
 ## 🎉 Fun Facts
 - 🎮 I love indie games with strong artistic direction.  
 - 🧩 I see design as a puzzle where creativity meets logic.  
