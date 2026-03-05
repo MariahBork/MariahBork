@@ -85,10 +85,8 @@
 
 ---
 
-## 🎶 Spotify Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=dwnc3op1rhww5kbo2usemtvia&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true"/>
-</p>
+## 🎶 Spotify
+[![Spotify](https://img.shields.io/badge/Spotify-MariahBork-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/user/dwnc3op1rhww5kbo2usemtvia)
 
 ---
 
