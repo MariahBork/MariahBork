@@ -16,4 +16,4 @@ jobs:
           client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
           client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          username: MariahBork
+          username: dwnc3op1rhww5kbo2usemtvia
