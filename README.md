@@ -1,4 +1,4 @@
-* NOT READY YET *
+*NOT READY YET*
 
 <!-- Animated Banner -->
 <p align="center">
