@@ -27,18 +27,12 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariahBork&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariahBork&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ## 🌟 Showcase Projects
 
 ### 🎨 Neon Portfolio
 <p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
+  <br>
   <a href="https://github.com/MariahBork/NeonPortfolio">
     <img src="i:turn0image1" width="300" alt="Neon Portfolio Screenshot"/>
   </a>
@@ -51,6 +45,8 @@
 
 ### 🎬 MotionLab
 <p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
+  <br>
   <a href="https://github.com/MariahBork/MotionLab">
     <img src="i:turn0image61" width="300" alt="MotionLab Motion Graphics Preview"/>
   </a>
@@ -63,6 +59,8 @@
 
 ### 🖥️ Cyber Dashboard
 <p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
+  <br>
   <a href="https://github.com/MariahBork/CyberDashboard">
     <img src="i:turn0image31" width="300" alt="Cyber Dashboard UI Preview"/>
   </a>
@@ -75,6 +73,8 @@
 
 ### 🎮 Indie Game Prototype
 <p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
+  <br>
   <a href="https://github.com/MariahBork/IndieGamePrototype">
     <img src="i:turn0image93" width="300" alt="Indie Game Prototype Gameplay Screenshot"/>
   </a>
@@ -104,6 +104,9 @@
 ---
 
 ## 🕹️ Interactive 3D Models
+<p align="center">
+  <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
+  <br>
 <p align="center">
   <iframe src="https://sketchfab.com/models/YOUR-MODEL-ID/embed" width="400" height="300" frameborder="0"></iframe>
 </p>
