@@ -6,6 +6,7 @@
 # ✨ Hi, I'm Mariah Bork ✨
 > Digital Artist • Web Designer • Game Designer • Creative Developer  
 > Blending **art, code, and motion** into immersive experiences.
+> And a lover for chaotic little animals 😜😆
 
 ---
 
