@@ -141,9 +141,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/MariahBork"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://twitter.com/MariahBork"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://instagram.com/MariahBork"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/mariah-theodora-gondim-bork"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/borkmariah/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
