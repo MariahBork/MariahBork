@@ -33,12 +33,8 @@
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
-  <a href="https://github.com/MariahBork/NeonPortfolio">
-    <img src="i:turn0image1" width="300" alt="Neon Portfolio Screenshot"/>
-  </a>
   <br>
   <b>Neon Portfolio</b> — A futuristic portfolio with animated visuals and interactive design  
-  🔗 [Live Demo](https://mariahbork.github.io/NeonPortfolio)
 </p>
 
 ---
@@ -47,12 +43,8 @@
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
-  <a href="https://github.com/MariahBork/MotionLab">
-    <img src="i:turn0image61" width="300" alt="MotionLab Motion Graphics Preview"/>
-  </a>
   <br>
   <b>MotionLab</b> — Experimental motion graphics with code + design  
-  🔗 [Live Demo](https://mariahbork.github.io/MotionLab)
 </p>
 
 ---
@@ -61,12 +53,8 @@
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
-  <a href="https://github.com/MariahBork/CyberDashboard">
-    <img src="i:turn0image31" width="300" alt="Cyber Dashboard UI Preview"/>
-  </a>
   <br>
   <b>Cyber Dashboard</b> — A glowing dashboard with real-time animations  
-  🔗 [Live Demo](https://mariahbork.github.io/CyberDashboard)
 </p>
 
 ---
@@ -75,12 +63,8 @@
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
-  <a href="https://github.com/MariahBork/IndieGamePrototype">
-    <img src="i:turn0image93" width="300" alt="Indie Game Prototype Gameplay Screenshot"/>
-  </a>
   <br>
   <b>Indie Game Prototype</b> — A 2D indie game experiment mixing art & mechanics  
-  🔗 [Play on itch.io](https://mariahbork.itch.io/indiegameprototype)
 </p>
 
 ---
@@ -107,10 +91,7 @@
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
-<p align="center">
-  <iframe src="https://sketchfab.com/models/YOUR-MODEL-ID/embed" width="400" height="300" frameborder="0"></iframe>
-</p>
-
+  
 ---
 
 ## 🎬 Motion & Style
