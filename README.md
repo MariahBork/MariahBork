@@ -145,9 +145,3 @@
   <a href="https://www.instagram.com/borkmariah/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://github.com/MariahBork"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
