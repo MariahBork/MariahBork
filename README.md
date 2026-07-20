@@ -144,4 +144,6 @@
   <a href="https://www.linkedin.com/in/mariah-theodora-gondim-bork"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://www.instagram.com/borkmariah/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://github.com/MariahBork"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.codedex.io/@mariahbork"><img src="https://skillicons.dev/icons?i=codepen" /></a>
+  <a href="https://mariahbork.itch.io/"><img src="https://skillicons.dev/icons?i=itch.io" /></a>
 </p>
