@@ -145,5 +145,5 @@
   <a href="https://www.instagram.com/borkmariah/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://github.com/MariahBork"><img src="https://skillicons.dev/icons?i=github" /></a>
   <a href="https://www.codedex.io/@mariahbork"><img src="https://skillicons.dev/icons?i=codepen" /></a>
-  <a href="https://mariahbork.itch.io/"><img src="https://skillicons.dev/icons?i=itch.io" /></a>
+  <a href="mailto:mariahbork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
