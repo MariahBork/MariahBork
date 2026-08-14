@@ -27,12 +27,12 @@
 
 ## 🌟 Showcase Projects
 
-### 🎨 Neon Portfolio
+### 🎨 Portfolio Lab
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
   <br>
-  <b>Neon Portfolio</b> — A futuristic portfolio with animated visuals and interactive design  
+  <b>Portfolio Lab</b> — A "Portifolio of Portifolios" that contais all kinds of different models and styles of portifolios  
 </p>
 
 ---
