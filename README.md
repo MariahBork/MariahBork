@@ -32,7 +32,7 @@
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
   <br>
-  <b>Portfolio Lab</b> — A "Portifolio of Portifolios" that contais all kinds of different models and styles of portifolios that I have crated so far  
+  <b>Portfolio Lab</b> — A "Portifolio of Portifolios" that contains all kinds of different models and styles of portifolios that I have created so far  
 </p>
 
 ---
