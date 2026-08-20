@@ -82,8 +82,8 @@
 ---
 
 ## 🏷️ Dynamic Badges
-![Currently Working On](https://img.shields.io/badge/Currently%20Working%20On-Indie%20Game%20Prototype-blueviolet?style=for-the-badge&logo=unity)
-![Latest Artwork](https://img.shields.io/badge/Latest%20Artwork-Cyberpunk%20Poster-neon?style=for-the-badge&logo=adobephotoshop)
+![Currently Working On](https://img.shields.io/badge/Currently%20Working%20On-Portifolio%20Lab-blueviolet?style=for-the-badge&logo=unity)
+![Latest Artwork](https://img.shields.io/badge/Latest%20Artwork-University%20Projects-neon?style=for-the-badge&logo=adobephotoshop)
 
 ---
 
