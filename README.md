@@ -20,7 +20,7 @@
 
 ## 🛠️ Tools & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender,aftereffects,unity,unreal,js,react,threejs,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma,blender,aftereffects,unity,unreal,js,react,threejs,python,git,github,vscode,aseprite" />
 </p>
 
 ---
