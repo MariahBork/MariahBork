@@ -37,12 +37,14 @@
 
 ---
 
-### 🎬 Motion Lab
+### 💻 SaaS Design
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
   <br>
-  <b>Motion Lab</b> — Experimental motion graphics with code + design  
+  <b>SaaS Design</b> — UI/UX concepts for SaaS platforms  
+  <br>
+  <sub>Dashboards • Landing pages • Design systems • User flows</sub>
 </p>
 
 ---
