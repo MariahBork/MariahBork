@@ -14,7 +14,7 @@
 - 🖌️ Exploring the intersection of **animation, design, and technology**.  
 - 🌐 Building interactive experiences with **web design & motion graphics**.  
 - 🎮 Designing **game worlds, mechanics, and immersive player experiences**.  
-- 🎬 Inspired by **cyberpunk aesthetics, glitch art, and neon vibes**.  
+- 🎬 Inspired by **cyberpunk aesthetics, glitch art, neon vibes and PIXEL ART!**.  
 
 ---
 
