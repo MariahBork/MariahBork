@@ -37,12 +37,12 @@
 
 ---
 
-### 🎬 MotionLab
+### 🎬 Motion Lab
 <p align="center">
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
   <br>
-  <b>MotionLab</b> — Experimental motion graphics with code + design  
+  <b>Motion Lab</b> — Experimental motion graphics with code + design  
 </p>
 
 ---
