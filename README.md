@@ -14,7 +14,7 @@
 - 🖌️ Exploring the intersection of **animation, design, and technology**.  
 - 🌐 Building interactive experiences with **web design & motion graphics**.  
 - 🎮 Designing **game worlds, mechanics, and immersive player experiences**.  
-- 🎬 Inspired by **cyberpunk aesthetics, glitch art, neon vibes and PIXEL ART!**.  
+- 🎬 Inspired by **cyberpunk aesthetics, glitch art, neon vibes and PIXEL ART!**  
 
 ---
 
@@ -32,7 +32,7 @@
   <img src="https://i.gifer.com/ZZ5H.gif" width="40" alt="loading"/>
   <br>
   <br>
-  <b>Portfolio Lab</b> — A "Portifolio of Portifolios" that contais all kinds of different models and styles of portifolios  
+  <b>Portfolio Lab</b> — A "Portifolio of Portifolios" that contais all kinds of different models and styles of portifolios that I have crated so far  
 </p>
 
 ---
